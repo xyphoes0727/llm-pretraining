@@ -1,0 +1,5 @@
+torch>=2.0
+datasets>=2.14
+tokenizers>=0.14
+wandb>=0.16
+python-dotenv>=1.0
